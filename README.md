@@ -14,7 +14,7 @@ To get started, follow these steps
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/ilmovilDev/nestjs_default.git
 cd your_repository
 ```
 2. Run yarn install to install dependencies.
